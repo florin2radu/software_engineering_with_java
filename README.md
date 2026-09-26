@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/book_cover.jpg" alt="Software Engineering with Java book cover" width="320">
+  <img src="assets/book-cover.jpg" alt="Software Engineering with Java book cover" width="320">
 </p>
 
 <h1 align="center">Software Engineering with Java</h1>
